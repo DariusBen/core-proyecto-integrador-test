@@ -1,1 +1,0 @@
-# core-proyecto-integrador-test

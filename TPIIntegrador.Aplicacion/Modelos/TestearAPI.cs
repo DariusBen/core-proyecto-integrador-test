@@ -1,6 +1,6 @@
-namespace core_proyecto_integrador_test
+namespace TPIIntegrador.Aplicacion.Modelos
 {
-    public class WeatherForecast
+    public class TestearAPI
     {
         public DateTime Date { get; set; }
 
