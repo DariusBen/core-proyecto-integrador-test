@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'enviflexapi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A7E1523F6C4E439BAB2C4852FBBBA1B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A7E1523F6C4E439BAB2C4852FBBBA1B8 }}
           package: .
